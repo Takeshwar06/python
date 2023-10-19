@@ -28,3 +28,11 @@ other programming languages which only serve to make the code
 easier to read, Python indentation is mandatory. One can understand
 it better by looking at an example of indentation in Python."""
 # use for grouping of code 
+
+
+# There are four collection data types in the Python programming language:
+
+# List--> is a collection which is ordered and changeable. Allows duplicate members.
+# Tuple--> is a collection which is ordered and unchangeable. Allows duplicate members.
+# Set--> is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+# Dictionary--> is a collection which is ordered** and changeable. No duplicate members.
