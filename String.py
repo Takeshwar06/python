@@ -1,4 +1,4 @@
-name="Hello \tcomputer science students,all students is are dabba"
+name="Hello \tcomputer science students,all students are dabba"
 # name=list(name)
 # for i in name:
 #     print(i,",")
