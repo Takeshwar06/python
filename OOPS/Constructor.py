@@ -1,8 +1,7 @@
-# Python is an object oriented programming language.
-
-# Almost everything in Python is an object, with its properties and methods.
-
-# A Class is like an object constructor, or a "blueprint" for creating objects.
+# in python constructer is define __init__() keyword
+# The __init__() function is called automatically every 
+# time the class is being used to create a new object.
+# __init__() always return None
 
 class Person:
   def __init__(self, name, age): # The __init__() function is called automatically every time the class is being used to create a new object.
